@@ -17,11 +17,11 @@ Didalam Android studio kita ada disediakan komponen yaitu Activity, Broadcast, S
 
 ## Summary of Commonly-used Android containers  
 1. LinearLayout (the box model)
-    LinearLayout adalah sebuah view group yang menyelaraskan semua children kedalam single direction / satu arah secara, secara vertikal atau horizontal. Anda dapat menentukan arah tata letak dengan atribut [android:orientation]
+        LinearLayout adalah sebuah view group yang menyelaraskan semua children kedalam single direction / satu arah secara, secara vertikal atau horizontal. Anda dapat menentukan arah tata letak dengan atribut [android:orientation]
 2. RelativeLayout (a rule-based model)
-    RelativeLayout adalah grup tampilan yang menampilkan tampilan child dalam posisi relatif. Posisi setiap tampilan dapat ditentukan sebagai relatif terhadap elemen sibling (seperti di sebelah kiri atau di bawah tampilan lain) atau dalam posisi relatif terhadap area RelativeLayout parent (seperti sejajar dengan bawah, kiri, atau tengah).
+        RelativeLayout adalah grup tampilan yang menampilkan tampilan child dalam posisi relatif. Posisi setiap tampilan dapat ditentukan sebagai relatif terhadap elemen sibling (seperti di sebelah kiri atau di bawah tampilan lain) atau dalam posisi relatif terhadap area RelativeLayout parent (seperti sejajar dengan bawah, kiri, atau tengah).
 3. TableLayout (the grid model)
-    TableLayout menempatkan turunannya ke dalam baris dan kolom. Container TableLayout tidak menampilkan garis batas untuk baris, kolom, atau selnya. Tabel ini akan memiliki jumlah kolom sebanyak jumlah baris yang memiliki sel terbanyak. Tabel dapat membiarkan sel kosong. Sel dapat mencakup beberapa kolom, seperti dalam HTML. Anda dapat memperluas kolom menggunakan kolom span di class TableRow.LayoutParams.
+        TableLayout menempatkan turunannya ke dalam baris dan kolom. Container TableLayout tidak menampilkan garis batas untuk baris, kolom, atau selnya. Tabel ini akan memiliki jumlah kolom sebanyak jumlah baris yang memiliki sel terbanyak. Tabel dapat membiarkan sel kosong. Sel dapat mencakup beberapa kolom, seperti dalam HTML. Anda dapat memperluas kolom menggunakan kolom span di class TableRow.LayoutParams.
 4. ScrollView, a container designed to assist with implementing scrolling containers. 
 5. Lainnya (ListView, GridView, WebView, MapView,…) 
 
