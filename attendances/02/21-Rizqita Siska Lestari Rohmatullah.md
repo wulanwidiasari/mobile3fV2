@@ -1,7 +1,8 @@
-#Rangkuman Minggu Ke-2
+Rangkuman Minggu Ke-2
 
-##Ketika kita membuat aplikasi Android, kita bisa menggunakan software bernama android studio. Dahulu sebelum adanya android studio, pelopor utamanya adalah Eclipse. Untuk membuat aplikasi android terdapat 2 bahasa pemograman dalam android studio yaitu java dan kotlin. Untuk menjalankan programnya tidak sulit, bisa menggunakan perangkat virtual atau dari handphone kita (menggunakan kabel USB) / bisa juga menggunakan mirroring ke laptop di handphone kita.
-##Didalam Android studio kita ada disediakan komponen yaitu Activity, Broadcast, Service, dan Content. Activity merupakan komponen yang bertujuan sebagai screen view jadi jika ingin masuk menu lainya activity ini sangat membantu. Broadcast yaitu merupkan komponen yang berfunsi sebagai notifikasi dari aplikasi lain sebagai contoh adalah telfon, sms OTP, dll. Selanjtunya Service yang merupakan komponen dimana bertujuan untuk melakukan proses dibelakang layar sebagai contoh play musik, GPS, penerima sms,dll. Dan yang terakhir ialah Content dimana komponen ini adalah memanajemen sebuat ada dari berbagai sumber.
+Ketika kita membuat aplikasi Android, kita bisa menggunakan software bernama android studio. Dahulu sebelum adanya android studio, pelopor utamanya adalah Eclipse. Untuk membuat aplikasi android terdapat 2 bahasa pemograman dalam android studio yaitu java dan kotlin. Untuk menjalankan programnya tidak sulit, bisa menggunakan perangkat virtual atau dari handphone kita (menggunakan kabel USB) / bisa juga menggunakan mirroring ke laptop di handphone kita.
+
+Didalam Android studio kita ada disediakan komponen yaitu Activity, Broadcast, Service, dan Content. Activity merupakan komponen yang bertujuan sebagai screen view jadi jika ingin masuk menu lainya activity ini sangat membantu. Broadcast yaitu merupkan komponen yang berfunsi sebagai notifikasi dari aplikasi lain sebagai contoh adalah telfon, sms OTP, dll. Selanjtunya Service yang merupakan komponen dimana bertujuan untuk melakukan proses dibelakang layar sebagai contoh play musik, GPS, penerima sms,dll. Dan yang terakhir ialah Content dimana komponen ini adalah memanajemen sebuat ada dari berbagai sumber.
 
 
 Didalam Android Studio juga ada proses development dan buildingnya diantaranya :
