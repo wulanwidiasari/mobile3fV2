@@ -1,0 +1,6 @@
+Hari ini kita belajar tentang widget dan navigasi. 
+Widget adalah komponen utama untuk membuat atau membangun sebuah UI di android, pada dasarnya widget mewarisi dari dari kelas View. User interface (UI) untuk aplikasi android dibuat sebagai layout dan widget. 
+Kita juga belajar tentang komponen navigasi. Navigasi antara layar dan aplikasi yang berbeda adalah bagian paling krusial atau inti dari pengalaman pengguna aplikasi. Komponen navigasi dirancang untuk menerapkan prinsip-prinsip ini secara default, memastikan bahwa pengguna dapat menerapkan heuristik dan pola yang sama dalam navigasi saat mereka berpindah antar aplikasi sehingga tetap stabil. 
+Ada juga destinasi, sebuah aplikasi pasti memiliki tujuan awal yang tetap. Destinasi adalah layar pertama yang dilihat pengguna saat mereka meluncurkan aplikasi dari launcher. Destinasi ini juga merupakan layar terakhir yang dilihat pengguna ketika mereka kembali ke launcher setelah menekan tombol back atau kembali. 
+Salah satu bagian inti dari komponen navigasi adalah host navigasi. 
+Host navigasi adalah wadah kosong yang menjadi tempat tujuan masuk dan keluar saat pengguna menavigasi melalui aplikasi yang kita buat. Host navigasi harus berasal dari NavHost
