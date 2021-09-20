@@ -1,12 +1,12 @@
-## PEMROGRAMAN SELULER
-    Secara garis besar pemrograman seluler terbagi menjadi 2 yaitu:
-      •	Widget dan
-      •	Navigasi 
+PEMROGRAMAN SELULER
+Secara garis besar pemrograman seluler terbagi menjadi 2 yaitu:
+Widget dan
+Navigasi 
 ---
 Widget:
-     Merupakan komponen utama untuk membangun UI pada android. Widget mewarisi dari kelas ttampilan.
+Merupakan komponen utama untuk membangun UI pada android. Widget mewarisi dari kelas ttampilan.
 Hirarki UI:
-     Antarmuka pengguna (UI) untuk aplikasi Android dibangun sebagai hirarki tata letak dan widget.
+Antarmuka pengguna (UI) untuk aplikasi Android dibangun sebagai hirarki tata letak dan widget.
 Berikut contoh dari Hirarki UI:
  <EditTeks
   android:id="@+id/editTeks"
@@ -20,11 +20,11 @@ Berikut contoh dari Hirarki UI:
   android:inputType="textPersonName" />
 Menetapkan nilai widget:
  Nilai widget itu tergantung kepada widget itu sendiri antara lain: 
-     •	EditTeks: Teks dll
-     •	ImageView: ImageResource dll
-     •	RadioButton: Teks, Dicentang
-     •	Kotak Centang: Teks, Dicentang
-     •	Dll
+     EditTeks: Teks dll
+     ImageView: ImageResource dll
+     RadioButton: Teks, Dicentang
+     Kotak Centang: Teks, Dicentang
+     Dll
 ---
 Navigasi:
      Navigasi antara layer dan aplikasi yang berbeda adalah bagian inti dari pengalaman pengguna. Prinsip-prinsip berikut menetapkan dasar untuk pengalaman pengguna yang konsisten dan 
@@ -54,14 +54,14 @@ Setup:
  implementasi "androidx.navigation:navigation-compose:2.4.0-alpha08"
 }
 Grafik Navigasi:
-      •	Tjuan adalah area konten yang berbeda di applikasi anda.
-      •	Tindakan adalah koeksi logis antara tujuan anda yang mewakili jalur yang anda dapat diambil pengguna.
+      Tjuan adalah area konten yang berbeda di applikasi anda.
+      Tindakan adalah koeksi logis antara tujuan anda yang mewakili jalur yang anda dapat diambil pengguna.
 Editor Navigasi:
-     •	Panel tujuan: mencantumkan host navigasi anda dan semua tujuan saat ini di editor grafik.
-     •	Editor grafik: berisi representasi visual dari grafik navigasi anda. Anda dapat beralih di antara desain tampilan dan representasi XML yang mendasarinya di TEKS melihat.
-     •	Atribut: Menampilkan atribut untuk item yang saat ini dipilih dalam grafik navigasi.
+     Panel tujuan: mencantumkan host navigasi anda dan semua tujuan saat ini di editor grafik.
+     Editor grafik: berisi representasi visual dari grafik navigasi anda. Anda dapat beralih di antara desain tampilan dan representasi XML yang mendasarinya di TEKS melihat.
+     Atribut: Menampilkan atribut untuk item yang saat ini dipilih dalam grafik navigasi.
 Tambahkan Nav Hots kedalam Aktivitas:
-     •	Salah satu bagian inti dari komponen Navigasi adalah tuan rumah navigasi.
-     •	Host navigasi adalah wadah kosong tempat tujuan ditukar masuk dan keluar saat pengguna menavigasi melalui aplikasi Anda.
-     •	Host navigasi harus berasal dari NavHost
+     Salah satu bagian inti dari komponen Navigasi adalah tuan rumah navigasi.
+     Host navigasi adalah wadah kosong tempat tujuan ditukar masuk dan keluar saat pengguna menavigasi melalui aplikasi Anda.
+     Host navigasi harus berasal dari NavHost
 
