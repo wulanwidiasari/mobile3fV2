@@ -5,6 +5,8 @@ UI Hierarchy adalah prinsip desain visual yang digunakan desainer untuk menunjuk
 
 
 Navigasi adalah interaksi yang memungkinkan pengguna untuk menelusuri, masuk, dan keluar dari berbagai konten dalam aplikasi. Komponen navigasi Android Jetpack dapat membantu Anda menavigasi, mulai dari klik tombol sederhana hingga mode yang lebih kompleks, seperti bilah aplikasi dan panel samping navigasi. Komponen navigasi juga didasarkan pada seperangkat prinsip yang telah ditentukan sebelumnya untuk memastikan pengalaman pengguna yang konsisten dan dapat diprediksi. Kita juga dengan mudah me replace suatu menu tanpa memberikan code kembali karena pada menu kita hanya memanggil fungsi fragmentnya saja. Fungsi hampir sama dengan action activity namun navigation lebih kompleks.
-    a.  Navigation Graph adalah sumber daya XML yang berisi semua informasi terkait navigasi di satu lokasi terpusat. Ini mencakup semua area konten individual dalam aplikasi kita, yang disebut tujuan, serta kemungkinan jalur yang dapat diambil pengguna melalui aplikasi kita.
-    b.  Navigation Editor memungkinkan kita membuat peta navigasi yang dapat digunakan users untuk melintasi dari satu layar ke layar lainnya di aplikasi. Anda dapat mengaktifkan editor navigasi dengan mengeklik tombol Navigasi di bilah alat atas, dan menonaktifkannya dengan mengeklik tombol Layar, beralih kembali ke mode default.
+
+Navigation Graph adalah sumber daya XML yang berisi semua informasi terkait navigasi di satu lokasi terpusat. Ini mencakup semua area konten individual dalam aplikasi kita, yang disebut tujuan, serta kemungkinan jalur yang dapat diambil pengguna melalui aplikasi kita.
+
+Navigation Editor memungkinkan kita membuat peta navigasi yang dapat digunakan users untuk melintasi dari satu layar ke layar lainnya di aplikasi. Anda dapat mengaktifkan editor navigasi dengan mengeklik tombol Navigasi di bilah alat atas, dan menonaktifkannya dengan mengeklik tombol Layar, beralih kembali ke mode default.
 
