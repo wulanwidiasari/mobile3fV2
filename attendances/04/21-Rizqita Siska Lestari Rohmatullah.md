@@ -4,6 +4,8 @@ Dalam pengembangan Android, setiap kali kita ingin menampilkan daftar vertikal y
 
 ## RecyclerView 
 Seperti namanya, RecyclerView mendaur ulang elemen individual ini. Saat item keluar dari layar, RecyclerView tidak akan merusak tampilannya. Sebagai gantinya, RecyclerView menggunakan kembali tampilan untuk item baru yang telah di-scroll di layar. Penggunaan kembali ini sangat meningkatkan kinerja, meningkatkan respons aplikasi, dan mengurangi konsumsi daya.
+RecyclerView dapat menampilkan kumpulan data besar dengan mudah dan efisien. Anda menyediakan data dan menentukan tampilan setiap item, dan pustaka RecyclerView secara dinamis membuat elemen sesuai kebutuhan.
+
 RecyclerView menyediakan pengelola tata letak bawaan sebagai berikut:
 - LinearLayoutManager menampilkan item dalam daftar  vertical atau horizontal scrolling list.
 - GridLayoutManager menampilkan item dalam kotak.
