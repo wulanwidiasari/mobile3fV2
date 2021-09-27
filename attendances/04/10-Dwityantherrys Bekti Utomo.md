@@ -2,7 +2,7 @@
 ---
 ### ListView
 ---
-Merupakan salah satu widget yang digunakan untuk menampilkan data atau nilai dalam bentuk daftar/list, nilai atau data yang ditampilkan pada ListView tersebut didapat dari sebuah Array atau Database yang sudah ditentukan.ListView merupakan user interface pada Android Studio yang menampilkan item-item dari sekumpulan daftar yang tersusun berbaris ke bawah atau kesamping dengan tampilan yang dapat scroll.
+Merupakan salah satu widget yang digunakan untuk menampilkan data atau nilai dalam bentuk daftar/list, nilai atau data yang ditampilkan pada ListView tersebut didapat dari sebuah Array atau Database yang sudah ditentukan.ListView merupakan user interface pada Android Studio yang menampilkan item-item dari sekumpulan daftar yang tersusun berbaris ke bawah atau kesamping dengan tampilan yang dapat scroll. 
 ---
 ## RecycleView
 ---
