@@ -1,13 +1,12 @@
 # Rangkuman Minggu ke-4
 ---
-### ListView
+## ListView
 ---
-Merupakan salah satu widget yang digunakan untuk menampilkan data atau nilai dalam bentuk daftar/list, nilai atau data yang ditampilkan pada ListView tersebut didapat dari sebuah Array atau Database yang sudah ditentukan.ListView merupakan user interface pada Android Studio yang menampilkan item-item dari sekumpulan daftar yang tersusun berbaris ke bawah atau kesamping dengan tampilan yang dapat scroll. 
+Merupakan salah satu widget yang digunakan untuk menampilkan data atau nilai dalam bentuk list, data yang di tampilkan pada listview tersebut didapat dari suatu array database yang sudah ditentukan.
 
 ---
 ## RecycleView
 ---
-
 RecyclerView benar-benar bisa mendaur ulang item yang sedang ditampilkan dengan menggunakan ViewHolder.ViewHolder dalam RecyclerView merupakan suatu kewajiban. Sedangkan dalam ListView, penggunaan ViewHolder hanya berupa saran, tanpa ada paksaan untuk memakainya. Hal ini tentunya sangat melebihkan RecyclerView dalam hal performa. RecyclerView dapat memisahkan list dari wadahnya dengan mudah menggunakan LayoutManager. Kita diberikan kemudahan untuk menyesuaikan tampilan dengan design yang kita inginkan.
 
 ---
