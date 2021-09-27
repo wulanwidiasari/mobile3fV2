@@ -1,5 +1,4 @@
-## LIST VIEW
-
+LIST VIEW
 - List View digunakan untuk menampilkan daftar vertikal item yang dapat digulir, ListView yang memiliki data yang diisi menggunakan Adaptor.
 - Adaptor paling sederhana yang digunakan disebut Array Adapter, adaptor mengonversi objek ArrayList menjadi item View yang dimuat ke dalam container List View.
 
@@ -10,8 +9,7 @@ Array Adapter
 - Memasang Adapter ke ListView
 - Mengisi data ke ListView
 
-## RECYLER VIEW
-
+RECYLER VIEW
 - RecyclerView adalah View Group yang berfungsi untuk merender tampilan berbasis adaptor dengan cara yang serupa. Recyler View menjadi penerus ListView dan GridView.
 - Setiap elemen individu dalam daftar ditentukan oleh objek view holder. Cara menentukan view holder adalah dengan memperluas RecyclerView.ViewHolder.
 - RecyclerView meminta tampilan tersebut, dan mengikat tampilan ke datanya, dengan memanggil metode di adaptor. Cara menentukan adaptor adalah dengan memperluas RecyclerView.Adapter.
@@ -30,8 +28,7 @@ Anda perlu mengganti tiga metode:
 - onBindViewHolder()
 - getItemCount()
 
-## FLUTTER
-
+FLUTTER
 - Flutter adalah sebuah framework open source yang dibuat oleh Google. Tujuannya adalah membangun sebuah framework untuk membuat UI yang modern, native dan reactive yang dapat berjalan di sistem operasi iOS maupun Android. Tidak hanya pada smartphone, google juga membuat flutter untuk desktop, web dan embedded device.
 - Flutter diprogram dengan menggunakan bahasa Dart.
 - Dart merupakan sebuah bahasa modern yang dapat dicompile ke arsitektur processor ARM atau javascript. Dart menggunakan metode compilasi ahead of time (AOT) untuk mengubah kode Dart menjadi kode native, oleh karena itu aplikasi yang dibangun menggunakan flutter memiliki kecepatan yang hampir sama dengan aplikasi native.
