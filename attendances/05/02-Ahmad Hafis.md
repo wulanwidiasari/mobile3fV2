@@ -34,3 +34,11 @@ Melakukan compile code yang baru ditambahkan dan dikirimkan ke virtual machine u
 
 ## Flutter Hot Restart
 Melakukan compile ulang aplikasi dan mereset state yang ada.
+
+
+# Link Tugas
+## Chapter 1
+1. flutter_hello_world : https://github.com/ahmadhafis/flutter_hello_world.git
+2. polinema_mobile_flutter_hello : https://github.com/ahmadhafis/polinema_mobile_flutter_hello.git
+## Chapter 2
+1. flutter_widgets : https://github.com/ahmadhafis/flutter_UI_widgets.git
