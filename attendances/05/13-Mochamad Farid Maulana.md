@@ -28,3 +28,11 @@ Widget di dalam flutter memiliki konsep parent-child, dimana setiap widget memil
 Hot Reload vs Hot Restart
 --
 Fitur ini merupakan kelebihan flutter, dimana ketika hanya mengubah tampilan dari aplikasi dapat dilakukan dengan hot reload yang lebih cepat karena pada proses hot reload tersebut tetap mempertahankan state atau data yang ada. Sedangkan hot restart dilakukan ketika ada perubahan pada state atau data.
+
+Link Repository Tugas Flutter
+--
+[https://github.com/farid-maulana/flutter-HelloWorld](https://github.com/farid-maulana/flutter-HelloWorld)
+
+[https://github.com/farid-maulana/polinema_mobile_flutter_hello](https://github.com/farid-maulana/polinema_mobile_flutter_hello)
+
+[https://github.com/farid-maulana/flutter-SoccerNews](https://github.com/farid-maulana/flutter-SoccerNews)
