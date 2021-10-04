@@ -12,3 +12,14 @@ StatelessWidget itu dibuat untuk tampilan datanya statis sedangkan StatefulWidge
 
 Perbedaan antara Hot Reload dan Hot Restart, ialah jika Hot Reload dilakukan ketika hendak mengubah tampilan dengan cepat dan tetap mempertahankan state atau data yang sudah ada 
 sedangkan Hot Restart dilakukan ketika ada perubahan pada state atau data.
+
+Adapaun Struktur Project pada  Flutter
+.dart_tools : config untuk bahasa Dart
+.idea : config untuk Android Studio
+gitignore : file git yang digunakan untuk mengelola source code
+metadata : berisi metadata dari project
+packages : file yang berisi alamat path
+flutter_basic.iml : berisi detail dari project
+pubspec.lock : berisi versi library atau package yang digunakan pada project yang degenerate dengan file pubspec.yaml
+pubspec.yaml : berisi library atau package yang dibutuhkan untuk pengembangan aplikasi
+readme.md : file markdown yang dapat digunakan untuk menjelaskan informasi penting yang perlu untuk diketahui
