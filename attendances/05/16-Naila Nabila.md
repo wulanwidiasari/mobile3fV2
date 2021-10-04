@@ -36,10 +36,8 @@ Berisi source code dart yang digunakan untuk melakukan test secara otomatis pada
 file ini berisi konfigurasi konfigurasi project flutter yang dibuat dimana anda dapat mendata asset berupa font, gambar dan lain lain. 
 
 ## Link Repo Flutter Chapter 1
-Praktikum :
 - https://github.com/nailanabilaaaaaa/flutter-hello-world.git
-Tugas :
 - https://github.com/nailanabilaaaaaa/polinema_mobile_flutter_hello.git
 
 ## Link Repo Flutter Chapter 2
-https://github.com/nailanabilaaaaaa/flutter-basic.git
+- https://github.com/nailanabilaaaaaa/flutter-basic.git
