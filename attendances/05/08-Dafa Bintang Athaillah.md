@@ -246,3 +246,11 @@ Selain mengirimkan parameter ke child widget parent juga dapat mengirim fungsi t
 ke child widget dimana fungsi ini akan dipanggil lagi oleh parent widget yang memiliki state. 
 Berikut ini contoh kode program untuk menurunkan fungsi ke child widget.
 
+---
+# Link Tugas:
+## Chapter 1
+1. Hello Word: https://github.com/Dafaathaillah/laravel-hello-word/tree/master/hello_word
+2. Polinema_Mobile_Flutter_Hello: https://github.com/Dafaathaillah/polinema_mobile_flutter_hello
+
+## Chapter 2
+1. Flutter_Basic: https://github.com/Dafaathaillah/flutter_basic
