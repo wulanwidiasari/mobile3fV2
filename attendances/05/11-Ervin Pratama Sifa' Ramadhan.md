@@ -11,3 +11,9 @@ filenya. Dapat kita lihat strukturnya terdiri dari .dart_tool, .idea, android, i
 .gitignore, .metadata, .packages, .flutter_basic.iml, pubspec.lock, pubspec.yaml,
 README.md.
 -	Tugas chapter membuat UI sederhana yaitu membuat berita pada flutter
+Link Jobsheet Flutter
+Chapter 1 :
+- Hello World : https://github.com/vinsifa/hello_world
+- Tugas Praktikum : https://github.com/vinsifa/polinema_mobile_flutter_hello
+Chapter 2 :
+- Tugas UI : https://github.com/vinsifa/flutter_ui
