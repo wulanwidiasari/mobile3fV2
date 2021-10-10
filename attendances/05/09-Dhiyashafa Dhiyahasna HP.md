@@ -6,3 +6,7 @@ Hari ini juga belajar tentang widget. Widget adalah UI pada flutter, berkonsep s
 Widget dapat disusun dan dikombinasikan dalam satu layar. Widget dapat disusun dalam bentuk tree dimana satu widget menjadi parent dan widget lain menjadi child.
 Flutter memiliki dua jenis widget yaitu StatelessWidget dan StatefullWidget.
 Stateless widget digunakan ketika value (state /konfigurasi) dari widget tersebut tidak pernah berubah, dan StatefullWidget digunakan ketika value (state / konfigurasi) dari widget dapat berubah.
+
+Link praktikum chapter 1: https://github.com/dhiyashafa/laravel-hello-world.git
+Link tugas chapter 1: https://github.com/dhiyashafa/Polinema_Mobile_Flutter_Hello.git
+Link tugas chapter 2: https://github.com/dhiyashafa/flutter-basic.git
