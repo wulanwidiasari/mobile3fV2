@@ -25,4 +25,6 @@ keunggulannya lebih cepat dari hot Restart
 # Flutter Hot Restart
  Hot restart akan mencompile ulang aplikasi dan mereset state yang ada. Jadi hot restart akan membuild ulang widget tree sesuai dengan code yang telah diperbarui.
 
-
+Link Git Praktikum 1:
+  1. https://github.com/sanggaasmara/flutter-hello-world.git
+  2. https://github.com/sanggaasmara/polinema_mobile_flutter_hello.git
