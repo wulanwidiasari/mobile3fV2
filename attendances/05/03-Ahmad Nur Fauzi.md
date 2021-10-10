@@ -25,3 +25,10 @@ Berisi kode program dengan bahasa dart berupa widget yang dapat dibuat sesuai ke
 5.	Folder test
 Berisi source code dart yang digunakan untuk melakukan test secara otomatis pada aplikasi flutter.
 6.	Pubspec.yaml
+
+Link Github :
+1. Praktikum 1 Hello World : https://github.com/ahmadnurfauziii/flutter-hello-world.git
+2. Tugas Praktikum 1 : https://github.com/ahmadnurfauziii/polinema_mobile_flutter_hello.git
+
+Tugas Praktikum :
+1. SoccerNews : https://github.com/ahmadnurfauziii/flutter_soccernews.git
