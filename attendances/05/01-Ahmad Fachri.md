@@ -11,3 +11,5 @@ Flutter memiliki dua jenis widget yaitu StatelessWidget dan StatefullWidget.
 Stateless widget digunakan ketika value (state /konfigurasi) dari widget tersebut tidak pernah berubah, dan StatefullWidget digunakan ketika value (state / konfigurasi) dari widget dapat berubah. 
 Baik StatelessWidget maupun StatefullWidget sama sama memiliki sebuah method bernama “build” yang memiliki BuildContext untuk mengatur posisi widget didalam widget tree.
 
+Link Flutter Chapter 1 
+https://github.com/ahmadfahry/hello-world.git
