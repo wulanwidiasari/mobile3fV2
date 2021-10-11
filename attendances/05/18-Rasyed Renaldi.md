@@ -23,3 +23,6 @@ flutter_basic.iml : berisi detail dari project
 pubspec.lock : berisi versi library atau package yang digunakan pada project yang degenerate dengan file pubspec.yaml
 pubspec.yaml : berisi library atau package yang dibutuhkan untuk pengembangan aplikasi
 readme.md : file markdown yang dapat digunakan untuk menjelaskan informasi penting yang perlu untuk diketahui
+
+link repo Tugas Praktikum 1.6
+https://github.com/Rasyid-deve/flutter_app_hello_world.git
