@@ -8,4 +8,6 @@ b. Memiliki validasi hanya angka.
 c. Memiliki tampilan input keyboard khusus angka.
 setelah memasang properties tersebut selanjutnya  Wrap TextFormField kedalam sebuah kolom dengan menekan Ctrl + . Langkah selanjutnya adalah mengisi Row untuk Text Info Suhu dalam Kelvin dan 
 Reamur. Langkah selanjutnya adalah mengisi sebuah button yang memiliki warna biru text 
-putih dan even on click null. 
+putih dan even on click null.Berikutnya saya mempelajari membuat aplikasi interaktif Setelah berhasil membuat layout selanjutnya adalah membuat aplikasi yang mamapu 
+melakukan konversi suhu dari input berupa derajat celcius ke tiga derajat lain yaitu kelvin, 
+reamur dan fahrenheit.
