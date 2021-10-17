@@ -6,15 +6,15 @@ Pada minggu kemaren saya mempelajari tentang konsep basic layouting pada flutter
 
 Merupakan sebuah objek dari sebuah class dan memiliki konstruktor untuk pembentukan aplikasi flutter, serta konsep widget ini disusun dalam bentuk tree.
 
-- Stateless Widget
+1 Stateless Widget
 
   Merupakan widget yang tidak membutuhkan sebuah state dan berdiri sendiri (State tidak pernah berubah).
 
-- Statefull Widget
+2 Statefull Widget
 
   Merupakan widget yang membutuhkan state lain untuk dapat menjalankan peosesnya (State dapat berubah).
 
-- Hirarki Widget Tree
+3 Hirarki Widget Tree
 
   Material App -> Scaffold -> Widget Lain
 
