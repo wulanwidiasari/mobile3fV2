@@ -18,4 +18,4 @@ Merupakan sebuah objek dari sebuah class dan memiliki konstruktor untuk pembentu
 
   Material App -> Scaffold -> Widget Lain
 
-Lalu saya mempelajari tentang konversi desain ke dalam bentuk widget, langkah pertama yaitu melakukan analisa terhadap bagian-bagian UI kedalam bentuk tree untuk memudahkan dalam penerapan pada kode progam. Setelah analisa dilakukan, layout dibentuk berdasarkan Row dan Column yang dibungkus pada sebuah Scaffold. Kemudian saya mempelajari bagaimana cara membuat kode program yang clean dengan cara mengelompokkan antar widget menjadi sebuah folder dan melakukan import widget tersebut pada file `main.dart`.
+Lalu saya mempelajari tentang konversi desain ke dalam bentuk widget, langkah pertama yaitu melakukan analisa terhadap bagian-bagian UI kedalam bentuk tree untuk memudahkan dalam penerapan pada kode progam. Setelah analisa dilakukan, layout dibentuk berdasarkan Row dan Column yang dibungkus pada sebuah Scaffold. Kemudian saya mempelajari bagaimana cara membuat kode program yang clean dengan cara mengelompokkan antar widget menjadi sebuah folder dan melakukan import widget tersebut pada file main.dart.
