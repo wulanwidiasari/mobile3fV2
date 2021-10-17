@@ -1,20 +1,22 @@
 ## Rangkuman Minggu 06
 
+Flutter menggunakan Dart untuk membuat User Interface, sehingga memudahkan dalam membuat aplikasi karena menggunakan satu bahasa (Dart) dalam pembuatan UI maupun logika program. Flutter menggunakan pendekatan declarative dimana Flutter membangun UI mengikuti “State” yang dimiliki oleh aplikasi. Ketika state berubah maka UI akan digambar ulang.
+
 Pada minggu kemaren saya mempelajari tentang konsep basic layouting pada flutter, antara lain sebagai berikut :
 
 ## Widget
 
 Merupakan sebuah objek dari sebuah class dan memiliki konstruktor untuk pembentukan aplikasi flutter, serta konsep widget ini disusun dalam bentuk tree.
 
-1 Stateless Widget
+- Stateless Widget
 
   Merupakan widget yang tidak membutuhkan sebuah state dan berdiri sendiri (State tidak pernah berubah).
 
-2 Statefull Widget
+- Statefull Widget
 
   Merupakan widget yang membutuhkan state lain untuk dapat menjalankan peosesnya (State dapat berubah).
 
-3 Hirarki Widget Tree
+- Hirarki Widget Tree
 
   Material App -> Scaffold -> Widget Lain
 
