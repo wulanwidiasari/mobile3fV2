@@ -21,12 +21,9 @@ kesimpulan yang saya ambil disini saya mempelajari:
 ---
 
 # Berikut hasil ScreenShoot dari WakaTime saya
-![Screenshot (2328)](https://user-images.githubusercontent.com/55053091/137659045-d0591de0-7bad-4a8d-be39-fe3333eb0d5d.png)
-![Screenshot (2329)](https://user-images.githubusercontent.com/55053091/137659049-c63254cc-a43c-4178-a2da-ad66770497da.png)
-![Screenshot (2330)](https://user-images.githubusercontent.com/55053091/137659032-aba6f60b-6a08-459e-8198-01a2c1d3291d.png)
+https://github.com/Dafaathaillah/ScreesShoot-Wakatime.git
 
-## Penjelasan screenshoot terakhir
+## Penjelasan screenshoot terakhir dengan nama "Project"
 mohon maaf sebelumnya pak saya izin menjelaskan sedikit tentang screenshoot terakhir ini, pada screenshoot ini saya membuat sebuah project laravel dan 
 itu sudah terhitung 2 jam lebih tetapi pada minggu ke 7 project tersebut tidak terhitung pada dashboard wakatime saya yang terhitung hanyalah ketika saya 
 mengerjakan project flutter, counting waktu saya mengoding seharusnya lebih dari 6 jam jika di gabungkan dengan project laravel ini.
-![Screenshot (2331)](https://user-images.githubusercontent.com/55053091/137659037-165d37a7-27f5-43dc-bf46-07f291f9b3b3.png)
