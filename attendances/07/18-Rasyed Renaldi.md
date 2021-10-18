@@ -1,4 +1,4 @@
-## Rangkuman Minggu 7
+Rangkuman Minggu 7
 
 Kali ini yang sudah saya pelajari ialah Scaffold Widget yang mana widget tersebut digunakan untuk
 mengatur tata letak sesuai dengan material design. Pada widget ini sangat perlu untuk digunakan
