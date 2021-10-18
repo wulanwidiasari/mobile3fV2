@@ -9,13 +9,10 @@
 
 pengunaan wrap with column:
 untuk menambah widget dalam bentuk kolom kekanan
-
 pengunaan wrap with row:
 untuk menambah widget dalam bentuk kolom kebawah
-
 membuat fungsi pada button untuk menghitung konversi
 
-![3](https://user-images.githubusercontent.com/63260212/137657633-0dbacb23-0329-4d9e-ba32-db2491b0d889.png)
 
 fungsi _konversiSuhu
 - penjelasan pada class tersebut mendeklarasikan object etInput dengan class TextEditingCOntroller
@@ -29,6 +26,4 @@ dan +273 untuk kelvin
 
 untuk hasil konversi = variabel suhu yang diinginkan input user
 
-## Screenshoot Wakatime
-![Screenshot (1507)](https://user-images.githubusercontent.com/63260212/137657513-d35c8c36-eb9e-4119-87c9-3fdc833c4c36.png)
-![Screenshot (1506)](https://user-images.githubusercontent.com/63260212/137657520-e631e4d3-97e9-46ea-ad88-bc5d151cacf7.png)
+https://github.com/nsenja/mobile-3f-15.git
