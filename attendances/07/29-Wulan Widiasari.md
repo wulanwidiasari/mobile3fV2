@@ -1,4 +1,5 @@
-## RANGKUMAN HASIL BELAJAR SELAMA 1 MINGGU
+RANGKUMAN HASIL BELAJAR SELAMA 1 MINGGU
+
 1. Membuat project baru chapter tiga praktikum yaitu Konversi Suhu
 2. Menyimak video youtube 07 Mini Project Flutter Konverter Suhu part satu dan dua. Dimana part satu dan dua tersebut membahas mengenai cara membuat aplikasi sederhana pada flutter menggunakan state dan event.
 3. Belajar layouting menggunakan tree dengan menentukan widget juga mendefinisikan row dan column.
