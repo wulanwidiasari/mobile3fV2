@@ -13,3 +13,6 @@ Rangkuman pertemuan ke 7
 1. Input : Berisi Widget TextFormField dan controller nya
 2. Result : Berisi widget hasil konversi yang memiliki variabel nama dan hasil.
 3. Convert : Berisi button dan reference ke function yang digunakan untuk melakukan setState().
+
+Link Repo Wakatime
+https://github.com/savinalintang/Wakatime.git
