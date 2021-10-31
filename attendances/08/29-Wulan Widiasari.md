@@ -8,4 +8,8 @@ Berikut adalah poin-poin yang saya rangkum dari penjelasan Farid Maulana.
 5. Langkah selanjutnya adalah controller API yang memiliki 5 function yaitu index, store, show, update, dan destroy. Controller api ini dibuat dengan syntax php artisan make:controler CategoryController --api untuk meletakkan rules yang diperlukan controller atau folder Resource untuk memodifikasi output maka kita dapat membuat folder request
 6. Menyetting route api.php agar controller yang sebelumnya dibuat dapat dipanggil. api.php tidak jauh berbeda dengan web.php
 
-Postman memiliki method GET, PUT, POST, dan DELETE.
+Postman memiliki method GET, PUT, POST, dan DELETE. Fungsinya antara lain :
+- GET : Merupakan metode untuk mengambil data informasi.
+- POST : Adalah Metode untuk menambah data informasi.
+- PUT : Metode untuk memperbaharui data informasi.
+- DELETE : Metode untuk menghapus data informasi.
