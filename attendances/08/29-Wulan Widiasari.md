@@ -1,7 +1,5 @@
 # Pertemuan 8 - Laravel dengan menggunakan API
-
 Berikut adalah poin-poin yang saya rangkum dari penjelasan Farid Maulana.
-
 1. Langkah pertama yaitu membuat database dan mengatur koneksi database pada file env yang ada pada project laravel
 2. Setelah itu membuat model, pada penjelasan model yang dibuat adalah Category.
 3. Selanjutnya yaitu membuat file migration, pada penjelasan terdapat atribut id, name, dan timestamp. Selanjutnya yaitu _php artisan migrate_
