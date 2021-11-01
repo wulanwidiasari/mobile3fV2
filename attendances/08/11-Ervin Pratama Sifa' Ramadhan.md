@@ -1,4 +1,5 @@
 Rangkuman Minggu 8
+
 Pada minggu ini mempelajari tentang penggunaan API pada Laravel untuk digunakan dalam aplikasi dan dalam flutter dengan didemokan caranya oleh Farid Maulana, untuk API sendiri itu adalah sebuah interface yang dapat menghubungkan aplikasi satu dengan aplikasi lainnya. Jadi, API berperan sebagai perantara antar berbagai aplikasi berbeda, untuk demonya akan didemokan oleh farid :
 1.	Membuat project Laravel baru yaitu Laravael API.
 2.	Lalu membuat migration categories.
