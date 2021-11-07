@@ -18,3 +18,4 @@ unauthenticated. selain menggunakan booted sebelumnya saudara farlan memberi ara
 agar berelasi terhadap model category dan tansaction dengan menggunakan hasMany.
 
 Sekian Rangkuman dari saya untuk pertemuan 1 nov | Terimakasih
+--
