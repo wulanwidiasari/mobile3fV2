@@ -1,10 +1,10 @@
-# Flutter API
+Flutter API
 
-### Link repo
+Link repo:
 link repo flutter-api prak: https://github.com/Dafaathaillah/flutter-api.git
 link repo wakatime: https://github.com/Dafaathaillah/ScreesShoot-Wakatime.git 
 
-### Resume Praktikum 1 Nov
+Resume Praktikum 1 Nov
 pada pertemuan 1 november bersama dengan saudara farid maulana yang kerap di sapa dengan farlan,
 saudara farlan melanjutkan project flutter-api sebelumnya pada project ini saudara farlan menjelaskan
 bagaimana cara menggunakan auth sanctum dan sbeelumnya saudara farlan juga mendemokan bagaimana cara menggunakan
@@ -18,4 +18,3 @@ unauthenticated. selain menggunakan booted sebelumnya saudara farlan memberi ara
 agar berelasi terhadap model category dan tansaction dengan menggunakan hasMany.
 
 Sekian Rangkuman dari saya untuk pertemuan 1 nov | Terimakasih
----
