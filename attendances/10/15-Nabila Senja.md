@@ -18,8 +18,6 @@ Rangkuman :
 - routes -> sebagai navigasi seperti pada laravel
 - inkWell -> sebagai hyperlink atau href seperti pada web
 
-
-![Screenshot](img/wktm.png)
 08/11/2021
 
 https://github.com/nsenja/mobile-3f-15.git
